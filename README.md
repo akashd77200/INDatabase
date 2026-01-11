@@ -1,4 +1,4 @@
-New Project Completed — Role-Based Authentication System
+<img width="1920" height="1080" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/d8f8322b-d299-4338-b1e9-607683309975" />New Project Completed — Role-Based Authentication System
 I recently built a backend application using Spring Boot + Spring Security that implements secure role-based access control.
 
 🔍 Highlights:
@@ -13,3 +13,5 @@ Strengthened my understanding of secure application design
 Learned best practices for handling credentials and roles
 Improved debugging and configuration with Spring Security
 I’m excited to continue improving my backend skills and open to feedback, collaboration, and opportunities!
+
+
