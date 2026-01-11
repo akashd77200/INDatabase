@@ -14,4 +14,5 @@ Learned best practices for handling credentials and roles
 Improved debugging and configuration with Spring Security
 I’m excited to continue improving my backend skills and open to feedback, collaboration, and opportunities!
 
+<img width="1920" height="1080" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/6fccd800-314d-43e0-8707-000ae8d8f6d7" />
 
